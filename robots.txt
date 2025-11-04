@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Block common sensitive files/folders
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /private/
+
+# Sitemap location
+Sitemap: https://acspromocodes.com/sitemap.xml
